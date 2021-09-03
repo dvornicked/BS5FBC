@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "icons": "svgo -f img",
     "serve": "browser-sync start -s --files 'style.css, index.html'"
   },
   "author": "",
